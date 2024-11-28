@@ -183,7 +183,10 @@ Close alert
 
 ### Scorecard
 
-Looks like we got a perfect score! LFG.
+Looks like we got a perfect score! 
+
+![GIF](https://media.giphy.com/media/AoHEeIi9AzzwLlEmfb/giphy.gif?cid=ecf05e47nkrtn87ykxp9r58a19xz8kakaizh5j4iq24vtz1x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 ![Image 22](https://i.imgur.com/4m7E8ah.png)
 
